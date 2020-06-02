@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-tribute-page/static/css/main.e7154fe3.chunk.css",
+    "main.js": "/react-tribute-page/static/js/main.9bcdd912.chunk.js",
+    "main.js.map": "/react-tribute-page/static/js/main.9bcdd912.chunk.js.map",
+    "runtime-main.js": "/react-tribute-page/static/js/runtime-main.c8883e77.js",
+    "runtime-main.js.map": "/react-tribute-page/static/js/runtime-main.c8883e77.js.map",
+    "static/js/2.f5b4244a.chunk.js": "/react-tribute-page/static/js/2.f5b4244a.chunk.js",
+    "static/js/2.f5b4244a.chunk.js.map": "/react-tribute-page/static/js/2.f5b4244a.chunk.js.map",
+    "index.html": "/react-tribute-page/index.html",
+    "precache-manifest.47023770c8c1dda216befee16d6a44c3.js": "/react-tribute-page/precache-manifest.47023770c8c1dda216befee16d6a44c3.js",
+    "service-worker.js": "/react-tribute-page/service-worker.js",
+    "static/css/main.e7154fe3.chunk.css.map": "/react-tribute-page/static/css/main.e7154fe3.chunk.css.map",
+    "static/js/2.f5b4244a.chunk.js.LICENSE.txt": "/react-tribute-page/static/js/2.f5b4244a.chunk.js.LICENSE.txt",
+    "static/media/bass.jpg": "/react-tribute-page/static/media/bass.4751bd6d.jpg",
+    "static/media/guitar.png": "/react-tribute-page/static/media/guitar.c965264b.png",
+    "static/media/root.jpg": "/react-tribute-page/static/media/root.442e2e55.jpg",
+    "static/media/vocal.jpg": "/react-tribute-page/static/media/vocal.8d8e9277.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8883e77.js",
+    "static/js/2.f5b4244a.chunk.js",
+    "static/css/main.e7154fe3.chunk.css",
+    "static/js/main.9bcdd912.chunk.js"
+  ]
+}
