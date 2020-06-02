@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  text-align: center;
+  #root {
+    .App {
+      nav {
+        font-size: 2rem;
+        .nav {
+          margin: 1em;
+        }
+      }
+    }
+  }
+}  
