@@ -13,6 +13,11 @@ body {
         font-size: 2rem;
         .nav {
           margin: 1em;
+          a {
+            padding: 1em;
+            text-decoration: none;
+            color: white;
+          }
         }
       }
     }
